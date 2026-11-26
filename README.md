@@ -49,10 +49,10 @@ Hasil pengujian menunjukkan bahwa kemampuan generalisasi model masih terbatas. N
 
 | No. | Nama | NIM | Kontribusi |
 |---:|---|---|---|
-| 1 | Karina Sulistya D | 123240227 | Mengerjakan eksplorasi data (EDA), termasuk analisis distribusi magnitudo dan kedalaman, pola kejadian gempa berdasarkan waktu, persebaran geografis episentrum, serta visualisasi dan interpretasi hasil eksplorasi. |
-| 2 | M. Ahsan R. S. | 123240246 | Mengerjakan Data Understanding, meliputi identifikasi sumber dan struktur dataset, pemeriksaan tipe data, missing values, duplikasi, nilai tidak valid, outlier, serta analisis kualitas dan keterbatasan data. |
-| 3 | Faiz Maulana B. | 123240249 | Mengerjakan Data Preparation, meliputi pembersihan data, pembentukan fitur waktu, pemilihan fitur dan target, penanganan missing values, preprocessing, serta pembagian data secara kronologis menjadi training, validation, dan testing. |
-| 4 | Lathiva Safina Almasea | 123240226 | Mengerjakan pemodelan dan evaluasi, meliputi pembangunan serta perbandingan Dummy Regressor dan Ridge Regression, pemilihan parameter alpha berdasarkan data validasi, evaluasi MAE/RMSE/R², analisis kesalahan prediksi, dan penyusunan kesimpulan. |
+| 1 | Lathiva Safina Almasea | 123240226 | Mengerjakan eksplorasi data (EDA), termasuk analisis distribusi magnitudo dan kedalaman, pola kejadian gempa berdasarkan waktu, persebaran geografis episentrum, serta visualisasi dan interpretasi hasil eksplorasi. |
+| 2 | Faiz Maulana B. | 123240249 | Mengerjakan Data Understanding, meliputi identifikasi sumber dan struktur dataset, pemeriksaan tipe data, missing values, duplikasi, nilai tidak valid, outlier, serta analisis kualitas dan keterbatasan data. |
+| 3 | M. Ahsan R. S. | 123240246 | Mengerjakan Data Preparation, meliputi pembersihan data, pembentukan fitur waktu, pemilihan fitur dan target, penanganan missing values, preprocessing, serta pembagian data secara kronologis menjadi training, validation, dan testing. |
+| 4 |  Karina Sulistya D | 123240227 | Mengerjakan pemodelan dan evaluasi, meliputi pembangunan serta perbandingan Dummy Regressor dan Ridge Regression, pemilihan parameter alpha berdasarkan data validasi, evaluasi MAE/RMSE/R², analisis kesalahan prediksi, dan penyusunan kesimpulan. |
 
 *Pembagian kontribusi di atas merupakan rancangan pembagian tugas yang disusun berdasarkan tahapan pekerjaan dalam notebook. Sesuaikan kembali apabila pelaksanaan tugas aktual setiap anggota berbeda.*
 
